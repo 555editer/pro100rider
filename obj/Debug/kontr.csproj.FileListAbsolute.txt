@@ -1,0 +1,7 @@
+C:\Users\Sony\Desktop\KR_Praktika-master\ConsoleApp20\obj\Debug\kontr.csprojResolveAssemblyReference.cache
+C:\Users\Sony\Desktop\KR_Praktika-master\ConsoleApp20\obj\Debug\kontr.csproj.CoreCompileInputs.cache
+C:\Users\Sony\Desktop\KR_Praktika-master\ConsoleApp20\obj\Debug\ConsoleApp20.exe
+C:\Users\Sony\Desktop\KR_Praktika-master\ConsoleApp20\obj\Debug\ConsoleApp20.pdb
+C:\Users\Sony\Desktop\KR_Praktika-master\ConsoleApp20\bin\Debug\ConsoleApp20.exe.config
+C:\Users\Sony\Desktop\KR_Praktika-master\ConsoleApp20\bin\Debug\ConsoleApp20.exe
+C:\Users\Sony\Desktop\KR_Praktika-master\ConsoleApp20\bin\Debug\ConsoleApp20.pdb
