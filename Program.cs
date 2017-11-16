@@ -8,7 +8,7 @@ namespace Kontr_Zadanie
 {
     class Cell
     {
-        char[,] mycell = new char[20,20];
+        char[,] mycell = new char[20, 20];
         Random rand = new Random();
         public void _cell()
         {
@@ -18,10 +18,10 @@ namespace Kontr_Zadanie
 
             Console.WriteLine();
 
-            int g = rand.Next(1, 20);
-            int f = rand.Next(1, 20);
+            int g = rand.Next(1,19);
+            int f = rand.Next(1, 19);
 
-            for (int i = 0; i < 20; i++)
+            for (int i = 0; i < 15; i++)
             {
                 Console.Write("\t"+"|");
                 for (int j = 0; j < 20; j++)
